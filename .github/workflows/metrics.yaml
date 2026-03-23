@@ -24,5 +24,3 @@ jobs:
           plugin_followup: yes
           plugin_traffic: yes
           plugin_lines: yes
-
-
