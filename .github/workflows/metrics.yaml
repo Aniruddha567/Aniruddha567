@@ -17,10 +17,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories
 
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-
-          plugin_stars: yes
-          plugin_followup: yes
-          plugin_traffic: yes
+       plugin_isocalendar: yes
+plugin_languages: yes
+plugin_topics: yes
+plugin_stars: yes
+plugin_followup: yes
+plugin_traffic: yes
+plugin_lines: yes
